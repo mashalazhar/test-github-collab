@@ -36,6 +36,23 @@ p {
 	animation: fadeIn 1s forwards;
   }
 
+.row{
+  animation: fadeIn 1s forwards;
+  opacity: 0;
+}
+
+#row2{
+  animation-delay:.5s;
+}
+
+#row3{
+  animation-delay:1s;
+}
+
+#row4{
+  animation-delay:1.5s;
+}
+
 @keyframes fadeIn {
   0% {opacity: 0;}
   100% {opacity: 1;}
