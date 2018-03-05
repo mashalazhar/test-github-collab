@@ -1,28 +1,25 @@
 
 .header {
-    text-align: center;
     padding: 32px;
 }
 
 h1 {
-    text-align: center;
     text-transform: uppercase;
     color: #B8860B;
     font-size: 76px;
 }
 
 h2 {
-    text-align: center;
     text-transform: uppercase;
     color: #F2AF12;
 }
 
 h3 {
-  text-align: center;
   text-transform: uppercase;
 }
 
 body {
+	text-align: center;
     margin: 0;
     font-family: Calibri;
 }
